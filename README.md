@@ -11,4 +11,6 @@
   * Kmeans
   * Guassian Mixture Model
   * Q-Learning Algorithm
+
+#### This is a collection of ML Homeworks in university which i gathered around
   
