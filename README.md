@@ -1,4 +1,4 @@
-# Implementing_ML_Algorithm_From_Scratch
+# Implementing ML Algorithms From Scratch
 
 #### Current implementation includes following algorithms
 
