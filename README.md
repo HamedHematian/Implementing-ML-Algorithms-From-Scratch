@@ -10,6 +10,7 @@
   * K-Nearest Neighbors
   * Kmeans
   * Guassian Mixture Model
+  * Prinicipal Component Analysis
   * Q-Learning Algorithm
 
 #### This is a collection of ML practical homeworks in university which i have gathered around
