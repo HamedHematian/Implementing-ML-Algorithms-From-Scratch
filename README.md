@@ -7,6 +7,7 @@
   * Kernel Regression
   * Non-Parmetric Regression
   * Support Vector Machine
+  * Kernel Support Vector Machine
   * K-Nearest Neighbors
   * Kmeans
   * Guassian Mixture Model
