@@ -12,5 +12,5 @@
   * Guassian Mixture Model
   * Q-Learning Algorithm
 
-#### This is a collection of ML Homeworks in university which i gathered around
+#### This is a collection of ML practical homeworks in university which i have gathered around
   
